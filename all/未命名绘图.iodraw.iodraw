@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-0" value="核心约束" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="973" width="741" height="124" as="geometry" />
+          <mxGeometry y="923" width="741" height="124" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-1" value="严格对应2.2节现象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="dZ9qbW0LoqeXSnZsO67m-0">
           <mxGeometry x="43" y="46" width="195" height="49" as="geometry" />
@@ -17,34 +17,34 @@
           <mxGeometry x="526" y="46" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-4" value="采集电路输出端特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="911" y="490" width="204" height="49" as="geometry" />
+          <mxGeometry x="751" y="440" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-5" value="特征匹配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="956" y="589" width="113" height="113" as="geometry" />
+          <mxGeometry x="796" y="539" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-6" value="标准故障特征库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="927" y="775" width="172" height="49" as="geometry" />
+          <mxGeometry x="767" y="725" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-7" value="反向推导" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="951" y="874" width="124" height="49" as="geometry" />
+          <mxGeometry x="791" y="824" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-8" value="异常位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="951" y="1011" width="124" height="49" as="geometry" />
+          <mxGeometry x="791" y="961" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-9" value="失效形式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1125" y="1011" width="124" height="49" as="geometry" />
+          <mxGeometry x="965" y="961" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-10" value="观测现象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1038" y="1147" width="124" height="49" as="geometry" />
+          <mxGeometry x="878" y="1097" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-11" value="识别故障" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1038" y="1246" width="124" height="49" as="geometry" />
+          <mxGeometry x="878" y="1196" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-12" value="定位点位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1038" y="1345" width="124" height="49" as="geometry" />
+          <mxGeometry x="878" y="1295" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-13" value="给出方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1038" y="1444" width="124" height="49" as="geometry" />
+          <mxGeometry x="878" y="1394" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZ9qbW0LoqeXSnZsO67m-4" target="dZ9qbW0LoqeXSnZsO67m-5">
           <mxGeometry relative="1" as="geometry">
@@ -54,7 +54,7 @@
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-15" value="静态电气参数" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZ9qbW0LoqeXSnZsO67m-5" target="dZ9qbW0LoqeXSnZsO67m-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="893" y="739" />
+              <mxPoint x="733" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,7 +66,7 @@
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-17" value="频域谐波特征" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZ9qbW0LoqeXSnZsO67m-5" target="dZ9qbW0LoqeXSnZsO67m-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1133" y="739" />
+              <mxPoint x="973" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,21 +83,21 @@
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZ9qbW0LoqeXSnZsO67m-7" target="dZ9qbW0LoqeXSnZsO67m-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1187" y="948" />
+              <mxPoint x="1027" y="898" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZ9qbW0LoqeXSnZsO67m-8" target="dZ9qbW0LoqeXSnZsO67m-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="1122" />
+              <mxPoint x="853" y="1072" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.84;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZ9qbW0LoqeXSnZsO67m-9" target="dZ9qbW0LoqeXSnZsO67m-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1187" y="1122" />
+              <mxPoint x="1027" y="1072" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,7 +119,7 @@
         <mxCell id="dZ9qbW0LoqeXSnZsO67m-26" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZ9qbW0LoqeXSnZsO67m-7" target="dZ9qbW0LoqeXSnZsO67m-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="948" />
+              <mxPoint x="370" y="898" />
             </Array>
           </mxGeometry>
         </mxCell>
